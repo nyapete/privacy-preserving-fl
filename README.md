@@ -23,7 +23,7 @@ All metrics are saved to an Excel file for further processing
 
 ## Requirements
 
-## Create a Virtual Environment 
+## Create Virtual Environment 
 Install the required packages using `pip`:
 !pip install -q flwr[simulation] tensorflow
 !pip install numpy pandas matplotlib seaborn scipy openpyxl xlsxwriter
